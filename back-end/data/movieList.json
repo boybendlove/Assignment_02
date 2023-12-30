@@ -1,0 +1,5064 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/eFMtPw8NoZqjjAMUY6Lmw58Fydf.jpg",
+    "belongs_to_collection": null,
+    "budget": 4,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://westendfilmes.carrd.co",
+    "id": 1177478,
+    "imdb_id": "tt29102774",
+    "original_language": "pt",
+    "original_title": "Sonho de Valsa",
+    "overview": "A delusional man dreams of dancing with an angel.",
+    "popularity": 1.96,
+    "poster_path": "/1PiKhkFBx3vbdPp3dEfxhtpkKjE.jpg",
+    "production_companies": [
+      {
+        "id": 208496,
+        "logo_path": null,
+        "name": "Êxtase Produções",
+        "origin_country": ""
+      },
+      {
+        "id": 202808,
+        "logo_path": "/n7NkzBqSIBLiT60rKPZKfocWCnF.png",
+        "name": "West End Filmes",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2023-09-12",
+    "revenue": 0,
+    "runtime": 2,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "YOU SHOULD DANCE WITH THIS ANGEL",
+    "title": "A Waltz Dream",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hDGbonxXmp2DC8DPVny1LsTSGIM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 282706,
+    "imdb_id": "tt0195701",
+    "original_language": "fr",
+    "original_title": "La Femme et le Pantin",
+    "overview": "Womanizer Don Mateo helps a girl in a train when attacked by a other woman. This girl, Conchita - a cigarette maker, soon visits the rich Don Mateo at his palace in Sevillia. He falls for her, but she likes to play with him.",
+    "popularity": 0.6,
+    "poster_path": "/dlu5LvKvdzdiDPLqW731r1i6bGv.jpg",
+    "production_companies": [
+      {
+        "id": 27625,
+        "logo_path": null,
+        "name": "Société des Cinéromans",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1929-05-31",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Woman and the Puppet",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/78zW7zd8EVHDKijPjEby4FC0GsM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      }
+    ],
+    "homepage": "",
+    "id": 836672,
+    "imdb_id": "tt0182228",
+    "original_language": "en",
+    "original_title": "Highlander: The Adventure Begins - The Animated Series Movie",
+    "overview": "Ramirez trains the young Quentin Macleod (The Highlander) and prepares him for his future and current battles against the sinister immortals in the world. (First four episodes of the animated show edited into a feature length movie.)",
+    "popularity": 2.167,
+    "poster_path": "/94fN9I9svuasy7gVyqY56Kb2rzo.jpg",
+    "production_companies": [
+      {
+        "id": 24554,
+        "logo_path": null,
+        "name": "Gaumont Télévision",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1994-09-18",
+    "revenue": 0,
+    "runtime": 78,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Highlander: The Adventure Begins",
+    "video": false,
+    "vote_average": 3.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 967935,
+    "imdb_id": "tt17424072",
+    "original_language": "es",
+    "original_title": "Bajo un mismo Cielo",
+    "overview": "Andrea (4) and Marina (6) become fast friends while playing on the rooftops of their adjacent buildings during the pandemic in Mexico City. They cling to their precious friendship during the stress and loneliness of confinement. When Marina's parents separate suddenly, however, Marina is heartbroken to have to move away without being able to say goodbye to Andrea, who is equally heartsick until she unexpectedly finds a remnant of their friendship.",
+    "popularity": 0.657,
+    "poster_path": "/hMoTRJunSFJfccAqJD2w3yNtWMt.jpg",
+    "production_companies": [
+      {
+        "id": 208486,
+        "logo_path": null,
+        "name": "Alas Ocultas",
+        "origin_country": ""
+      },
+      {
+        "id": 208487,
+        "logo_path": null,
+        "name": "Samba Filmworks",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2022-04-25",
+    "revenue": 0,
+    "runtime": 15,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Under the Same Sky",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ec1yA7FoHltRHxxFS7cBvOarbvc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1160003,
+    "imdb_id": "tt23642744",
+    "original_language": "en",
+    "original_title": "Night of the Hunted",
+    "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+    "popularity": 6.961,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 137610,
+        "logo_path": null,
+        "name": "Getaway Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 111909,
+        "logo_path": null,
+        "name": "Cinestesia",
+        "origin_country": ""
+      },
+      {
+        "id": 205374,
+        "logo_path": null,
+        "name": "Heavy Rainfall",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-10-12",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Night of the Hunted",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f5FjEf3u4ybAKfqUainQwJhZPy2.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1165656,
+    "imdb_id": "tt28997098",
+    "original_language": "ko",
+    "original_title": "아이유 콘서트 : 더 골든 아워",
+    "overview": "Experience IU’s first ever global cinema release, as the first Korean female singer to perform at the iconic Olympic Main Stadium in Seoul, the largest stadium in South Korea and the dream venue for music artists.  Starting with a thrilling acapella opening, the setlist is filled with beloved songs from across IU’s career. From the floating strawberry moon balloon, to fireworks and a stunning drone show, the enchanting stage production is a must-see in cinemas.  Embrace the happiness of the unforgettable 'Golden Hour' through IU’s legendary performances and a fully-charged live show.",
+    "popularity": 36.477,
+    "poster_path": "/60sR9GYAa0lpRKnNrJwez3qgsOH.jpg",
+    "production_companies": [
+      {
+        "id": 128333,
+        "logo_path": "/cIFX3XS0k5UzJwOi5rvCDlpgzib.png",
+        "name": "CJ CGV",
+        "origin_country": "KR"
+      },
+      {
+        "id": 206452,
+        "logo_path": "/kULhUeKP3kyjirUr2xDNlcBq2rk.png",
+        "name": "EDAM Entertainment",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-13",
+    "revenue": 0,
+    "runtime": 171,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "IU CONCERT : The Golden Hour",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b9NWoCPzq2MH2N8mxvzx77p3DZe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1176890,
+    "imdb_id": null,
+    "original_language": "nl",
+    "original_title": "Sociale Drug",
+    "overview": "A by-the-system failed young woman breaks out of the one system and falls into another, the drugsdeal business. She gets an unethical task to fulfill and the pressure of which is slowly rising up.",
+    "popularity": 2.744,
+    "poster_path": "/9MCSly4P3cL8nNUYvtfUpon5kwM.jpg",
+    "production_companies": [
+      {
+        "id": 208401,
+        "logo_path": null,
+        "name": "ROSE Stories",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2023-09-14",
+    "revenue": 0,
+    "runtime": 11,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Don’t do drugs, kids.",
+    "title": "Peer Pressure",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1060434,
+    "imdb_id": null,
+    "original_language": "cn",
+    "original_title": "不日成婚2",
+    "overview": "This sequel to the 2021 film, Ready O/R NOT, explores a series of heart-wrenching realities encountered by modern men and women who are in the different stages of their relationships. The story revolves around 3 couples dealing with accidental pregnancy, unfaithfulness, and planning a wedding with a meddling Mother-In-Law. Will they call it quits or remember why they fell in love in the first place?",
+    "popularity": 10.543,
+    "poster_path": "/pdKqbmnjjsUI1NCukQm0hlaaaOn.jpg",
+    "production_companies": [
+      {
+        "id": 122289,
+        "logo_path": null,
+        "name": "Emperor Motion Pictures",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ready O/R Rot",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1118628,
+    "imdb_id": "tt26763669",
+    "original_language": "en",
+    "original_title": "The Redemption of Ricky Grey",
+    "overview": "Six months after the events of \"The Revelations of Gavin Grey\", Ricky finds himself dealing with the consequences of his brother's actions in ways he never imagined while his mothers have to make an unbearable decision.",
+    "popularity": 10.961,
+    "poster_path": "/zOxPMN2FoIiNQKfixEFxW1gGio2.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 30,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Redemption of Ricky Grey",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1145880,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "A Better Man",
+    "overview": "The harrowing experiences of a friend group reveal the impacts of toxic masculinity.",
+    "popularity": 10.629,
+    "poster_path": "/Ab2KEBgJtWCJtDeqsX3uXmz9bM8.jpg",
+    "production_companies": [
+      {
+        "id": 203165,
+        "logo_path": null,
+        "name": "The Goldfish & Nerd Film House",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 10,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "One becomes invisible as the other becomes transparent.",
+    "title": "A Better Man",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1156705,
+    "imdb_id": "tt15940154",
+    "original_language": "uk",
+    "original_title": "Duma about Justice",
+    "overview": "\"Duma about Justice\" is a short film about justice and some legal aspects of the Gongadze case, brought to screen in the name of Georgiy Gongadze's dearest human.",
+    "popularity": 10.644,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Duma about Justice",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1161493,
+    "imdb_id": null,
+    "original_language": "nl",
+    "original_title": "Voyage voyant",
+    "overview": "A young woman sits on the bus and tries to make sense of the world around her. In her explorations, a sense of mystery enters the ordinary.",
+    "popularity": 11.497,
+    "poster_path": "/kIcIlQe85lmttpEjUDYbqAdY1pG.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 8,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Voyage voyant",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1164906,
+    "imdb_id": null,
+    "original_language": "zh",
+    "original_title": "一雙一對",
+    "overview": "Roy has been learning pole dancing without telling his wife Chloe. In addition to the lack of personal space at home, he is also looking for a passion and the joy of self-exploration. Chloe, who works hard, and Roy, who hangs out to practise dancing, are becoming more and more alienated. Is it marriage or ignorance of each other that kills them?",
+    "popularity": 11.409,
+    "poster_path": "/bkLfNTFcAr5hZWWqZiZ6lCEd2m4.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 26,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Happily Ever After",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1164908,
+    "imdb_id": "tt27736858",
+    "original_language": "de",
+    "original_title": "Staudamm",
+    "overview": "Lou suffers from an anxious avoidant personality disorder. She uses her camera lens to capture the world around her but feels completely invisible in it herself. Deep-seated fears and self-doubt accompany her everyday. Around others, she can't barely get a sound out. Quiet, shy, reserved. She hates being like this. In order to break free, Lou needs to end the close relationship with her friend Mina and stand up for herself.",
+    "popularity": 11.287,
+    "poster_path": "/2lnj7cTNXVxIjMfc1OBejrAAsL6.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 28,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1164912,
+    "imdb_id": "tt27052374",
+    "original_language": "en",
+    "original_title": "As I Lay Still",
+    "overview": "A Black veteran is sent home after being injured in combat, while her friends and significant other are still overseas fighting. As she receives news that some of her friends have died, she is holding on to hope that her lover returns safely.",
+    "popularity": 10.938,
+    "poster_path": "/4y0EJFe9sVkpYu5Bzfi6wP0Ihmv.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 14,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "As I Lay Still",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1165821,
+    "imdb_id": null,
+    "original_language": "it",
+    "original_title": "Incanto",
+    "overview": "",
+    "popularity": 10.545,
+    "poster_path": "/4k0J6Oenxm3Z5joUQVFQrTwthFN.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Incanto",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1165874,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Teratoma",
+    "overview": "Image's autopsy.",
+    "popularity": 10.536,
+    "poster_path": "/aZgysdmy1eua50nytfEj2JQtmUZ.jpg",
+    "production_companies": [
+      {
+        "id": 121102,
+        "logo_path": null,
+        "name": "mbvideo",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 3,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Teratoma",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 30,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1167689,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Distort and Display",
+    "overview": "A heartbroken girl is introduced to a new concept of nihilism.",
+    "popularity": 3.842,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 191777,
+        "logo_path": null,
+        "name": "Nocturne",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MA",
+        "name": "Morocco"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 60,
+    "runtime": 26,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Why try anything anymore?",
+    "title": "Distort and Display",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1169735,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Doubles",
+    "overview": "A Trinidadian street vendor must travel to Toronto and decide if he will help save his estranged father from dying.",
+    "popularity": 14.05,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Doubles",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170323,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "オキナワより愛をこめて",
+    "overview": "An Okinawan photographer, Mao Ishikawa spent her early 20s working as a barmaid in establishments catered specifically to African American GIs stationed in Okinawa. “There was love,” as the tagline reads, her photography book, 『Red Flower – The Women of Okinawa』 captured the diaristic intimacy of friendships, love affairs, and wild nights shared amongst her social circle of that time.",
+    "popularity": 10.599,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "From Okinawa with Love",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 38250,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "homepage": "",
+    "id": 1171788,
+    "imdb_id": null,
+    "original_language": "it",
+    "original_title": "Life is a game",
+    "overview": "",
+    "popularity": 10.604,
+    "poster_path": "/bgqMaQ5SofRweOwlFkQBYiPBXA2.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Greek",
+        "iso_639_1": "el",
+        "name": "ελληνικά"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Life is a game",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1173516,
+    "imdb_id": null,
+    "original_language": "de",
+    "original_title": "Die unsichtbare Patientin - Sind Frauen anders krank?",
+    "overview": "",
+    "popularity": 11.234,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Die unsichtbare Patientin - Sind Frauen anders krank?",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 36000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1174176,
+    "imdb_id": "tt22770182",
+    "original_language": "en",
+    "original_title": "The Last Butterflies",
+    "overview": "After a collection of environmental disasters lead society to the brink of collapse, a young mother must find ways to survive with her small child as they navigate the near-future apocalypse.",
+    "popularity": 14.777,
+    "poster_path": "/s2eE4Sc6IK10GJ3wLZpp03JI7r0.jpg",
+    "production_companies": [
+      {
+        "id": 207859,
+        "logo_path": null,
+        "name": "Barnacle and Spoon Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 98513,
+        "logo_path": null,
+        "name": "Heartland Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 27,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Last Butterflies",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1175170,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "The Little Piratemaid",
+    "overview": "A Short film about what it’s like to discover yourself as a trans person in a cis-normative world—even if that world is one of pirates and mermaids! This short film focuses on the moments of realization, the initial stages of transition, and the courage it takes for a little pirate girl to simply be herself.",
+    "popularity": 10.543,
+    "poster_path": "/qFAuEF0l8fnQvHw8kvwFzazt4JP.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 3,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Little Piratemaid",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 2200,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1175264,
+    "imdb_id": null,
+    "original_language": "pt",
+    "original_title": "Há Monstros na Escuridão",
+    "overview": "On a farm in the north of Portugal with a vineyard surrounded by a forest, where the past and present mix, a mother and a daughter, in a fight for reconciliation, try to overcome the anguish that still torments them. Will there be a change after this fight?",
+    "popularity": 10.434,
+    "poster_path": "/htossCUnOxFStwPqCdivfazU7Y6.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 13,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "There are Monsters in the Dark",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1175933,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Majors",
+    "overview": "A creative writing class exercise on idiomatic expressions and figurative language.",
+    "popularity": 5.379,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 2,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "Where wisdom and wit unite!",
+    "title": "Majors",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uEE1GLvuJNKHp3aWu64Y7P4EztY.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1176663,
+    "imdb_id": null,
+    "original_language": "xx",
+    "original_title": "L'últim mort",
+    "overview": "Death wanders aimlessly searching someone to send to the otherworld. The last human has died and only the remains of a society that now cannot be remembered stays. And the animals, that have understood how to outlast us, look at it from afar. What is death without someone that creates the legend?",
+    "popularity": 2.744,
+    "poster_path": "/fOjDJr73lEbBz0omYhev1bKz9Bj.jpg",
+    "production_companies": [
+      {
+        "id": 208356,
+        "logo_path": null,
+        "name": "La Metzinera Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 11,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "L'últim mort",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kc9JKgK1WvA7FkR0Kx3OXh4Hded.jpg",
+    "belongs_to_collection": null,
+    "budget": 3544,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://distributionwithglasses.com/cuando-yo-me-muera/",
+    "id": 1176716,
+    "imdb_id": null,
+    "original_language": "es",
+    "original_title": "Cuando yo me muera",
+    "overview": "The strong fight between two brothers ends with the life of one of them. The eldest will drag the guilt of eternal mourning and emptiness, in addition to the burden of having condemned their parents to the pain of a silent mourning.",
+    "popularity": 2.744,
+    "poster_path": "/r00g2bNv9Rwsey7DLC4kY6YD58p.jpg",
+    "production_companies": [
+      {
+        "id": 208378,
+        "logo_path": null,
+        "name": "Ayuntamiento de Mula",
+        "origin_country": ""
+      },
+      {
+        "id": 208379,
+        "logo_path": null,
+        "name": "Ayuntamiento de Cartagena",
+        "origin_country": ""
+      },
+      {
+        "id": 208380,
+        "logo_path": null,
+        "name": "Instituto de Industrias Culturales y las Artes de Murcia",
+        "origin_country": ""
+      },
+      {
+        "id": 188042,
+        "logo_path": null,
+        "name": "Shot on Kodak Film",
+        "origin_country": ""
+      },
+      {
+        "id": 208381,
+        "logo_path": null,
+        "name": "321 Films",
+        "origin_country": ""
+      },
+      {
+        "id": 208382,
+        "logo_path": null,
+        "name": "Lenso Films",
+        "origin_country": ""
+      },
+      {
+        "id": 208383,
+        "logo_path": null,
+        "name": "Gecisa",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 20,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A story that no one talks about but everyone knows.",
+    "title": "When Death Comes",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oUYwHja4l3YosD2EtcCy0RzMZt6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "https://www.ufc.com/event/ufc-fight-night-september-16-2023",
+    "id": 1177190,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "UFC Fight Night 227: Grasso vs. Shevchenko 2",
+    "overview": "UFC Fight Night: Grasso vs. Shevchenko 2 (also known as UFC Fight Night 227, UFC on ESPN+ 85 and Noche UFC) is a mixed martial arts event produced by the Ultimate Fighting Championship that took take place on September 16, 2023, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Metropolitan Area, United States.",
+    "popularity": 1.96,
+    "poster_path": "/g0ju2kjMMUWIrhnZyWtRWA16Yjw.jpg",
+    "production_companies": [
+      {
+        "id": 72685,
+        "logo_path": "/pGU8jiv3XnHPVKUR3bBIirB8XjG.png",
+        "name": "Ultimate Fighting Championship",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "UFC Fight Night 227: Grasso vs. Shevchenko 2",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 6,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1091171,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Honeybun",
+    "overview": "After getting a call from her brother. Jamie goes to a diner in the middle of the night to have a conversation with him to talk about their father.",
+    "popularity": 10.552,
+    "poster_path": "/rkwvFqKAULK8icukn9kl9gefZio.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 10,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "It's a Family Affair",
+    "title": "Honeybun",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9QiNfbctNUgaO2F53mEYAxSC6Ft.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "",
+    "id": 1161031,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "William Zepeda vs. Mercito Gesta",
+    "overview": "William “El Camarón” Zepeda (28-0, 24 KOs) defends his WBA Continental Americas lightweight title against the resilient Mercito “No Mercy” Gesta (34-3-3, 17 KOs) of Mandaue City, Philippines in a 12-round fight that will generate fireworks for Mexican Independence Day.",
+    "popularity": 12.391,
+    "poster_path": "/gjCFi2KhEcojKiezZivPOkBO2h8.jpg",
+    "production_companies": [
+      {
+        "id": 183121,
+        "logo_path": "/vSJMBqnNCUsFbApuONTQ7FStYbn.png",
+        "name": "Golden Boy Promotions",
+        "origin_country": "US"
+      },
+      {
+        "id": 135210,
+        "logo_path": "/uVtnYQgOoNZePh5Jm4f7mXNG1uH.png",
+        "name": "DAZN",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "William Zepeda vs. Mercito Gesta",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/31skHblhTb3XNUcbFrQH1PgyiHV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      }
+    ],
+    "homepage": "",
+    "id": 1143873,
+    "imdb_id": "tt27722604",
+    "original_language": "en",
+    "original_title": "One Perfect Match",
+    "overview": "The matchmaker Lucy Marks meets a handsome businessman and immediately feels a spark, but that spark is ruined when she learns he is her newest client.",
+    "popularity": 16.876,
+    "poster_path": "/4gwz4c4MudJfM7Dv4TdDkn2Asl.jpg",
+    "production_companies": [
+      {
+        "id": 199833,
+        "logo_path": "/jBvzUqNAKQL9KUiAXPHJ01fREGN.png",
+        "name": "Jaggi Entertainment",
+        "origin_country": "AU"
+      },
+      {
+        "id": 170857,
+        "logo_path": "/583tGqXU1c7HewprC5f30o7LASt.png",
+        "name": "Nicely Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "One Perfect Match",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/avYrMwvEhBqlsnUEfxkeQazx5GN.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1146674,
+    "imdb_id": "tt27818862",
+    "original_language": "fr",
+    "original_title": "Noctambule",
+    "overview": "A young woman decides to go home at night when she feels deep discomfort at a friend's party. It is then that a strange silhouette will begin to follow her...",
+    "popularity": 10.629,
+    "poster_path": "/bn1Ophpvyru7kKkbBPHHkK6PbDx.jpg",
+    "production_companies": [
+      {
+        "id": 203315,
+        "logo_path": null,
+        "name": "Beautemps production",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 30,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Any ressemblance to actual facts, is not coincidental...",
+    "title": "Noctambule",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1150407,
+    "imdb_id": "tt27998759",
+    "original_language": "es",
+    "original_title": "Teodoro",
+    "overview": "It is the morning after Valentine's Day. Sole is arrested in her house, accused of alleged sexual abuse towards Teodoro, her teddy bear. Graciela, her assistant and friend, is the one who reported her. Detectives Justi and Roque have to find out what happened at Sole's house the previous night and which one of them is the true culprit, because Graciela also becomes a suspect in the crime. But the investigation becomes increasingly complex, with the back-and-forth of each of the accused.",
+    "popularity": 11.339,
+    "poster_path": "/jfZ92ZrP0ZLgPjQIYm3NMdMRLxo.jpg",
+    "production_companies": [
+      {
+        "id": 203834,
+        "logo_path": null,
+        "name": "La Mandanga Producciones",
+        "origin_country": ""
+      },
+      {
+        "id": 136517,
+        "logo_path": "/uZWLGLR5VW4pG8joGkfjpVVexZJ.png",
+        "name": "Instituto del Cine de Madrid",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 21,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "FIND OUT WHO HAS BEEN...",
+    "title": "Teodoro",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eZRHuxeEbRdOxn31iZ1KA9GjjPN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1166713,
+    "imdb_id": "tt28690326",
+    "original_language": "en",
+    "original_title": "Notes of Autumn",
+    "overview": "Leo is a successful author who is experiencing a tough writer's block. Feeling the pressure to finish the new installment of his popular series of books, Leo swaps homes with his best friend, Ellie, for a period of time. During his stay at Ellie's place, Leo ends up meeting Matt, who helps him get out of his own way when it comes to writing something new and inspiring. Leo and Matt's newfound friendships turn into something far more meaningful, just as Ellie is experiencing a similar situation with Sam.",
+    "popularity": 16.522,
+    "poster_path": "/wOrMrXgezAdQHPnb12f8AU8IWAB.jpg",
+    "production_companies": [
+      {
+        "id": 53015,
+        "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+        "name": "Hallmark Media",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Notes of Autumn",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5LZ0vlUNx6QdD9sX9K6prnxhzoc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170229,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "애국소녀",
+    "overview": "",
+    "popularity": 10.601,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "K-Family Affairs",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170238,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "내 몸이 증거다",
+    "overview": "",
+    "popularity": 10.602,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My Body My Proof",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170239,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "아름다운 시체 삼부작",
+    "overview": "",
+    "popularity": 11.845,
+    "poster_path": "/en1GxYWQedbbdlBh8UO8D7utnrA.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Exquisite Corpse Trilogy",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170241,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "My First Funeral",
+    "overview": "Being a lesbian in Korea is hard. Marriage, a happy future, or even one’s own death seem far away. So this unique woman makes an unconventional choice – she arranges her first funeral.",
+    "popularity": 10.541,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 38,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My First Funeral",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170255,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "어푸어푸",
+    "overview": "",
+    "popularity": 11.098,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eopu Eopu",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jHsZ9AKm3iuG53g89385ZdtYtAC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170261,
+    "imdb_id": null,
+    "original_language": "de",
+    "original_title": "Joy",
+    "overview": "",
+    "popularity": 10.889,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Joy",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170279,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "부서지는 세계, 부서진 이야기",
+    "overview": "",
+    "popularity": 10.952,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tender Territory and Micro Reality",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170285,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "고다르",
+    "overview": "",
+    "popularity": 10.713,
+    "poster_path": "/gToys4JOcL6EMpa9IKFcRYYA8no.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jean-Luc Godard",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1170400,
+    "imdb_id": null,
+    "original_language": "ko",
+    "original_title": "판문점",
+    "overview": "One year after the Korean War, the conflict had reached a stalemate. The two opposing forces began to search for a way to end the grueling war of attrition, eventually settling on a modest village called ‘Pan Mun Jom’ near Gaeseong as the designated site for negotiations. Despite initial hopes for a quick resolution, the negotiating parties encountered obstacles that prevented an agreement. Disputes over the military demarcation line and the repatriation of prisoners of war thwarted their efforts. The film peels back the layers to reveal the untold story of Pan Mun Jom, shedding light on a history that has remained hidden until now.",
+    "popularity": 11.064,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 112196,
+        "logo_path": "/t7iLYzrj825rY7CqEG7xS4IUOOB.png",
+        "name": "Newstapa",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pan Mun Jom",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/osIdX0HWGjrEfJ4OL0uFA9iWCWZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1171110,
+    "imdb_id": "tt28784282",
+    "original_language": "nl",
+    "original_title": "'t Voorjaer",
+    "overview": "When a farmer's son decides to spend a night out in the big city, he discovers that his future could be different.",
+    "popularity": 10.983,
+    "poster_path": "/eS6akcr23ZSGhkAdimBQcvSgIiB.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 19,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "'t Voorjaer",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1174175,
+    "imdb_id": null,
+    "original_language": "zh",
+    "original_title": "厨神驾到",
+    "overview": "",
+    "popularity": 12.136,
+    "poster_path": "/o7t9VJo7rLYm72QTcavShaYbfoK.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "厨神驾到",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i88R5JOPphlwR7pD1K34kwJh7HN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1174325,
+    "imdb_id": null,
+    "original_language": "zh",
+    "original_title": "曾经炽热的我们",
+    "overview": "",
+    "popularity": 11.155,
+    "poster_path": "/qS7DDhm2eSbNrJCzhalv2RSzdsf.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "曾经炽热的我们",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1177315,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "'Danity to 49",
+    "overview": "An attempt to justify the experience of another 21 days.",
+    "popularity": 1.96,
+    "poster_path": "/gd7H31U5Mc8CspacfDe7rJ1dRQf.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2023-09-20",
+    "revenue": 0,
+    "runtime": 26,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "'Danity to 49",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1177344,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Finals Week",
+    "overview": "A group of college freshmen studying for their final exams find themselves locked in the library with a killer.",
+    "popularity": 1.96,
+    "poster_path": "/254bTAvhVfE9k3QgERdvpBHHeTa.jpg",
+    "production_companies": [
+      {
+        "id": 208479,
+        "logo_path": null,
+        "name": "Hunter Squared Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-09-21",
+    "revenue": 0,
+    "runtime": 22,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "FINALS WEEK IS BRUTAL",
+    "title": "Finals Week",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gf7C8pDM6W6oBgJEOS9MPGo2eVC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "",
+    "id": 1177008,
+    "imdb_id": null,
+    "original_language": "th",
+    "original_title": "แม่ครับ ผมอยากเป็นกิ้งก่า",
+    "overview": "In an era where people can edit the genes of humans and animals, 'Win' wants to be a chameleon. The problem is his mom didn't allow.",
+    "popularity": 2.744,
+    "poster_path": "/gvQ52BcY3Vf3jYTjYLnqJJFXGa5.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-23",
+    "revenue": 0,
+    "runtime": 112,
+    "spoken_languages": [
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "HE WHO WANTS TO BE EVERYTHING.",
+    "title": "Mom, I want to be a Chameleon",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1177444,
+    "imdb_id": "tt28626764",
+    "original_language": "fr",
+    "original_title": "Les Tubercules",
+    "overview": "At the end of his life, a writer recollects his visit to Beaumanoir, forty years earlier. The strange customs of the folks he met back then left him scared with an unspeakable burden. By telling his story, he hopes to exorcise his past and finally rest in peace.",
+    "popularity": 1.96,
+    "poster_path": "/gU52Z7bFGoRpbFIIqTOv5030f5g.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-09-23",
+    "revenue": 0,
+    "runtime": 23,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Tubers",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1022108,
+    "imdb_id": "tt28265358",
+    "original_language": "zh",
+    "original_title": "他馬克老闆",
+    "overview": "Mark, a rookie in a global marketing enterprise, is weary of his repetitive job and challenging workplace infightings. Exhausted by overtime hours, Mark even has an illusion of the Grim Reaper.  One day, Mark’s colleague mistakes him for the grandson of the biggest shareholder of the company. Mark is promoted and assigned to go on a business trip with his assistant Emma, whom he forms a strong attachment with. Mark is willing to risk everything to maintain the lie. However, the company gets involved in an insider trading scandal. What will Mark do to tackle the crisis?",
+    "popularity": 3.836,
+    "poster_path": "/qeW9ZbnZYPeEcyoTGkaD4Acf6G7.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "TW",
+        "name": "Taiwan"
+      }
+    ],
+    "release_date": "2023-09-28",
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Kiss My Ass Boss",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 895959,
+    "imdb_id": "tt13205458",
+    "original_language": "en",
+    "original_title": "Float",
+    "overview": "During the summer before college, city girl Waverly (Andrea Bang) finds herself in Tofino, completely alienated by the local beach culture. Things start to look up when she meets the local lifeguard Blake (Robbie Amell), who welcomes her into his life. And when he finds out that she doesn’t know how to swim and takes it upon himself to teach her, she discovers a new world of possibilities which throws her carefully planned future into question.",
+    "popularity": 7.279,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 1063,
+        "logo_path": "/fpVBhNnopOZwGuF0gg99oBHp1ht.png",
+        "name": "Brightlight Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 26742,
+        "logo_path": null,
+        "name": "Collective Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 107108,
+        "logo_path": "/5mxc7uNtFOZm2ly0BxixxGPvPlb.png",
+        "name": "Wattpad",
+        "origin_country": "US"
+      },
+      {
+        "id": 82552,
+        "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+        "name": "Elevation Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-09-30",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Float",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1177154,
+    "imdb_id": null,
+    "original_language": "de",
+    "original_title": "Mein Falke",
+    "overview": "",
+    "popularity": 1.869,
+    "poster_path": "/8qk7rsXC0DWQixnQ5yRCWOhHPcM.jpg",
+    "production_companies": [
+      {
+        "id": 51311,
+        "logo_path": null,
+        "name": "Provobis Gesellschaft für Film und Fernsehen",
+        "origin_country": "DE"
+      },
+      {
+        "id": 7201,
+        "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+        "name": "NDR",
+        "origin_country": "DE"
+      },
+      {
+        "id": 587,
+        "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+        "name": "ARTE",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2023-10-01",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Mein Falke",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      }
+    ],
+    "homepage": "",
+    "id": 1103836,
+    "imdb_id": "tt29005479",
+    "original_language": "fr",
+    "original_title": "La Belle étincelle",
+    "overview": "",
+    "popularity": 1.96,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 23577,
+        "logo_path": "/yBowQe1oINhL7PPNo5y8gF6X0Hp.png",
+        "name": "Karé Productions",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2023-10-05",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "La Belle étincelle",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8fTzsXNVgGtJn6iKCghsW0TUJD4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://undercurrent-movie.com/",
+    "id": 1100859,
+    "imdb_id": "tt27916263",
+    "original_language": "ja",
+    "original_title": "アンダーカレント",
+    "overview": "Kanae's husband disappeared without a trace while on a union trip. Though usually headstrong and independent, the woman becomes plagued with worry over what happened to him, and is unable to move on with her life. Thus, Kanae decides to hire a private investigator, and keeps running the public bathhouse to the best of her abilities.  As he tries to figure out the truth about her husband, Kanae must deal with the stress from a work-intensive job, meddlesome neighbors, and recurring nightmares in which she is drowning.",
+    "popularity": 4.234,
+    "poster_path": "/eVoDtPDWVYbejmb6Qf9fNnQcCoP.jpg",
+    "production_companies": [
+      {
+        "id": 135898,
+        "logo_path": null,
+        "name": "JOKER FILMS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 59118,
+        "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+        "name": "Kodansha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2073,
+        "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+        "name": "KADOKAWA",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2023-10-06",
+    "revenue": 0,
+    "runtime": 143,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Undercurrent",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1177476,
+    "imdb_id": null,
+    "original_language": "fr",
+    "original_title": "Violette Morris, sans contrefaçon",
+    "overview": "Homicidal, marginal, notorious collaborator... her controversial death demonized Violette Morris, and overshadowed the life that preceded it. Yet the woman whom newspapers dubbed \"our country's most intrepid sportswoman\" was undeniably a pioneer. A multi-medalist sportswoman, Cocteau's inspiration and a hugely popular figure, she freed herself early on from all the limitations associated with her gender, refusing to accept the femininity imposed on her by the times, wearing a suit and short hair, accepting her homosexuality and her decision never to give birth. Rejected by both conservative society and the feminist activists of her time, she embodied a challenge to gendered binarity that disturbed everyone at the time. New research today offers a new reading of the destiny of the woman who played a key role in her contemporaries' access to sport, the wearing of pants and the right to assert themselves outside a man's shadow.",
+    "popularity": 1.311,
+    "poster_path": "/8VHd6YSiyqbQlKoVYzulAj7M67r.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-10-06",
+    "revenue": 0,
+    "runtime": 52,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Violette Morris, sans contrefaçon",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "https://www.mvff.com/program/under-the-same-sky/",
+    "id": 1175502,
+    "imdb_id": null,
+    "original_language": "es",
+    "original_title": "Bajo un mismo Cielo",
+    "overview": "Andrea (4) and Marina (6) become fast friends while playing on the rooftops of their adjacent buildings during the pandemic in Mexico City. They cling to their precious friendship during the stress and loneliness of confinement. When Marina's parents separate suddenly, however, Marina is heartbroken to have to move away without being able to say goodbye to Andrea, who is equally heartsick until she unexpectedly finds a remnant of their friendship.",
+    "popularity": 1.417,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 208486,
+        "logo_path": null,
+        "name": "Alas Ocultas",
+        "origin_country": ""
+      },
+      {
+        "id": 208487,
+        "logo_path": null,
+        "name": "Samba Filmworks",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2023-10-10",
+    "revenue": 0,
+    "runtime": 15,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Under the Same Sky",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1175418,
+    "imdb_id": "tt12093782",
+    "original_language": "en",
+    "original_title": "Sculpting the Giant",
+    "overview": "Directors Rheza Arden and Banu Wirandoko document a 28-year quest for glory in this engrossing film. Indonesian sculptor Nyoman Nuarta’s goal is to build the world’s largest brass and copper structure: the Garuda Wisnu Kencana statue. Featuring two Hindu gods, the statue is to be located in an abandoned limestone quarry in Bali, which Nyoman plans to turn into a park. To meet his objective, the artist will have to contend with public opposition, political turmoil, and many other obstacles…",
+    "popularity": 1.427,
+    "poster_path": "/xW77vdIWGrHkJxWwLH85wjGfHRS.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ID",
+        "name": "Indonesia"
+      }
+    ],
+    "release_date": "2023-10-12",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Sculpting the Giant",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://mubi.com/en/us/films/with-a-wool-ball",
+    "id": 1063702,
+    "imdb_id": null,
+    "original_language": "es",
+    "original_title": "Con un ovillo de lana",
+    "overview": "In a winter of northwestern Argentina, a young woman, a sheep and a llama dance to take off the cold",
+    "popularity": 1.052,
+    "poster_path": "/yNQwnle49GdedrRNkWJcpOms9op.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2023-10-14",
+    "revenue": 0,
+    "runtime": 5,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "A northwestern winter full of ponchos, mates and warm stories.",
+    "title": "With a Wool Ball",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 150000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1177445,
+    "imdb_id": "tt27480944",
+    "original_language": "en",
+    "original_title": "Cannibal Mukbang",
+    "overview": "Shy and looking for love, Mark quickly becomes smitten with the outgoing and mysterious Ash, who somehow, much to his surprise, reciprocates the attraction. But as his feelings for her intensify, so does his unexpected submersion into Ash's biggest love: the wild world of mukbanging. And with it, lots of bloodshed. Delving into a fascinating subculture while never losing focus on her characters, first-timer Aimee Kuge delivers a raucous and bold horror-comedy seeped in romance and gore.",
+    "popularity": 1.076,
+    "poster_path": "/AvNVz7UZpp4KMDaM3hRDg8dBRiZ.jpg",
+    "production_companies": [
+      {
+        "id": 208494,
+        "logo_path": null,
+        "name": "Melty Media",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-10-14",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Cannibal Mukbang",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1171835,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "バカ塗りの娘",
+    "overview": "Keiko Tsuruoka’s film is at once traditional and contemporary: it gently mixes present-day gender and sexuality politics with the old-fashioned Japanese domestic drama. Traditional lacquerwork kitchenware is the Aoki family’s legacy, handed down to patriarch Seishiro (Kaoru Kobayashi) by his now-ailing father (Masayuki Suzuki). Seishiro expects to pass it in turn to his son Yu (Ryota Bando), but Yu has no interest in the craft—quite unlike daughter Miyako (Mayu Hotta), who loves it dearly. The stage is set for conflict, as established cultural traditions collide with modern mores…",
+    "popularity": 1.252,
+    "poster_path": "/tw9etIT4wmPdQoCB9PjOJ1EJNUr.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2023-10-18",
+    "revenue": 0,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Tsugaru Lacquer Girl",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1175405,
+    "imdb_id": null,
+    "original_language": "hi",
+    "original_title": "Gorai Phakhri",
+    "overview": "A woman scholar goes to a rural community to do research; a widow struggles to survive without her husband; a mother tries to protect her spirited teenage daughter. Set in a small village on the India/Bhutan border, this Boro-language film tells the story of a group of women who live alongside each other, who know each other’s business, who are sometimes in conflict and sometimes get along, but who always support each other when one of them is threatened. Wild Swans records the rhythms, intimacies, and routines of village life, and beautifully captures the lush Assam landscape. This is a story of a community of women who have learned to survive and thrive on their own, within the confines of traditional roles and overarching patriarchy. Written and directed by Rajni Basumatary, Wild Swans is warm and touching, featuring a glimpse into a culture rarely seen in cinema.",
+    "popularity": 1.4,
+    "poster_path": "/uPV4XzzOb3IBiPSXls5NUWcBQEk.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2023-10-18",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Wild Swans",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1175406,
+    "imdb_id": "tt20235394",
+    "original_language": "ka",
+    "original_title": "Gamodi",
+    "overview": "Against the backdrop of a sprawling half-constructed tower block in Tbilisi, Viktor, a local celebrity drag queen, and Tarzan, a drifting teenager, search for fleeting possibilities of intimacy in the vestiges of a collapsing world. Playing out meager tasks of survival in a restricted not so far future, Viktor and Tarzan slowly come to understand their environment as a vestibule of the afterlife.",
+    "popularity": 1.614,
+    "poster_path": "/rfNn8dn2GswRIY6EAXKy7erDDtq.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "GE",
+        "name": "Georgia"
+      }
+    ],
+    "release_date": "2023-10-18",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Georgian",
+        "iso_639_1": "ka",
+        "name": "ქართული"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Gamodi",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1175419,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Physician, Heal Thyself",
+    "overview": "Dr Gabor Maté has become one of the world’s most influential thinkers about addiction, trauma and childhood development on the back of books like In the Realm of Hungry Ghosts, The Myth of Normal and When the Body Says No. He’s pioneered the idea of Compassionate Inquiry as a therapeutic approach, and worked for over a decade on Vancouver’s Downtown Eastside.",
+    "popularity": 0.946,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-10-19",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Physician, Heal Thyself",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1175420,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Mareya Shot, Keetah Goal: Make the Shot",
+    "overview": "From local co-directors Baljit Sangra (Because We Are Girls) and Nilesh Patel, this spirited documentary follows four junior hockey players of South Asian descent throughout the 2021-2022 season as they strive to be drafted into the NHL. Arjun Bawa and Kayden Sadhra-Kang skate in the footsteps of their father Robin Bawa, who made history in 1989 as the first South Asian to play in the NHL. Meanwhile, seasoned defenseman Arvin Atwal seeks to shed the fighter reputation he acquired in the American Hockey League by transferring to Slovakia. And, in an uplifting turn of events, the film traces the journey of Surrey’s own Arshdeep Bains to signing with the Vancouver Canucks.",
+    "popularity": 0.946,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-10-19",
+    "revenue": 0,
+    "runtime": 72,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Mareya Shot, Keetah Goal: Make the Shot",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1175421,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "WaaPaKe",
+    "overview": "WaaPaKe is a story about resilience, love and transformation. Examined through an Indigenous lens, the stories of residential school Survivor-Warriors and their families offer an understanding of both intergenerational trauma and healing. We are taken to a studio set-up in front of a green screen. Through compassionate, candid conversations, Jules Koostatchin shares interviews with five individuals, family and friends, that all directly or indirectly experienced intergenerational trauma.",
+    "popularity": 0.946,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-10-19",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "WaaPaKe",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1177126,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Asphodel",
+    "overview": "\"Limbo\" follows Shenal, a young man teetering on the brink of his curtain-call, as he confronts the devastating consequences of his addiction through a series of surreal visions.",
+    "popularity": 0.919,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-10-22",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Asphodel",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "",
+    "id": 996867,
+    "imdb_id": "tt21429366",
+    "original_language": "id",
+    "original_title": "Saranjana: Kota Gaib",
+    "overview": "A Significant band from Jakarta is having a concert in Kotabaru, South Kalimantan. Their vocalist Shita (Dinda Azani) mysteriously disappeared. The other band members are trying to find the vocalist. After searching for and finding information that shita is in Saranjana, a supernatural city that is believed by local residents to be a mysterious city that is modern and advanced. In order to bring their vocalist back to the real world, they have to go on an adventure through horror and mystical events to find a portal to Saranjana.",
+    "popularity": 1.603,
+    "poster_path": "/aJ1HYjpy4dDwS7rJhPEhfXtyn4G.jpg",
+    "production_companies": [
+      {
+        "id": 90345,
+        "logo_path": null,
+        "name": "Darihati Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ID",
+        "name": "Indonesia"
+      }
+    ],
+    "release_date": "2023-10-26",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Indonesian",
+        "iso_639_1": "id",
+        "name": "Bahasa indonesia"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Saranjana: Kota Gaib",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e5iSDWSVuiPnGJH94gSXFdvYyZq.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "http://www.ajcplay.anuragjhacreations.com",
+    "id": 1177186,
+    "imdb_id": "tt28081620",
+    "original_language": "en",
+    "original_title": "Shinigami's Box: Origins",
+    "overview": "In a race against time, Inspector Kabir of Special Crimes Unit must unravel the connection between a masked criminal captured during a critical operation and a mystifying box that materializes in a secluded village on the city's outskirts.",
+    "popularity": 1.96,
+    "poster_path": "/e8wHBJg52Nbt9H2Iz3vk9gX7LDn.jpg",
+    "production_companies": [
+      {
+        "id": 139619,
+        "logo_path": "/63pVgzckMF4OMUr6MXyG3BQIZuy.png",
+        "name": "AnuragJha Creations",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2023-10-30",
+    "revenue": 0,
+    "runtime": 153,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "Find the Origins",
+    "title": "Shinigami's Box: Origins",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xW0rfHAZyhGutKZz156w8HHrjgL.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1177258,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "The Square",
+    "overview": "What begins as a business meeting between a novelist and her ‘for-hire’ public persona soon curdles into a western face-off.",
+    "popularity": 1.4,
+    "poster_path": "/tpF30LCL5PkP8FmziPUztzVMU0z.jpg",
+    "production_companies": [
+      {
+        "id": 208458,
+        "logo_path": null,
+        "name": "It's Only A Threat",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2023-10-30",
+    "revenue": 0,
+    "runtime": 19,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "Who is Claire Morgan?",
+    "title": "The Square",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 980382,
+    "imdb_id": "tt11430948",
+    "original_language": "en",
+    "original_title": "Bloodthirst",
+    "overview": "In a post apocalyptic world run by vampires, only the strong survive. John Shepard, Vampire Hunter, is one of them. John has to track down and eliminate the master vampire before he himself gets turned.",
+    "popularity": 6.325,
+    "poster_path": "/u4nZcLS2V18JDCJoabOEyZFWc3n.jpg",
+    "production_companies": [
+      {
+        "id": 109416,
+        "logo_path": null,
+        "name": "Mahal Empire",
+        "origin_country": ""
+      },
+      {
+        "id": 153698,
+        "logo_path": null,
+        "name": "Blaen-Y-Maes Bootleg Films",
+        "origin_country": ""
+      },
+      {
+        "id": 153696,
+        "logo_path": null,
+        "name": "Spicy Ramen Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-10-31",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Bloodthirst",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 1177273,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "In My Own Time",
+    "overview": "\"In My Own Time\" looks at what it means to die on one's own terms.",
+    "popularity": 0.999,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-11-02",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "English",
+    "title": "In My Own Time",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 3739,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1177171,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Armed to the Teeth",
+    "overview": "Two armed officers bust in and search a house during a raid, instead of drugs they find something unexpected.",
+    "popularity": 1.4,
+    "poster_path": "/7088dOLNACSOD60El3nFosMEwfJ.jpg",
+    "production_companies": [
+      {
+        "id": 92265,
+        "logo_path": null,
+        "name": "London Film Academy",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-11-03",
+    "revenue": 0,
+    "runtime": 7,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "He's gonna stop at nothing to find the stash.",
+    "title": "Armed to the Teeth",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 8500000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 989596,
+    "imdb_id": "tt19894774",
+    "original_language": "fr",
+    "original_title": "La Tresse",
+    "overview": "Three women Smita, Giulia and Sarah from different parts of the world who have never met but they are bound by something intimate and unique.",
+    "popularity": 3.462,
+    "poster_path": "/ef1wHswxOkquZyCmWPIBzgDim7E.jpg",
+    "production_companies": [
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 92629,
+        "logo_path": null,
+        "name": "Forum Films",
+        "origin_country": "CA"
+      },
+      {
+        "id": 12406,
+        "logo_path": "/e89tcj2PpfFffwA0etxuGftj0YU.png",
+        "name": "La Compagnie Cinématographique",
+        "origin_country": "BE"
+      },
+      {
+        "id": 12407,
+        "logo_path": "/g11ZDtSicimXi5MmwUznAsEomXZ.png",
+        "name": "Panache Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 177378,
+        "logo_path": null,
+        "name": "La Fabrique Films",
+        "origin_country": ""
+      },
+      {
+        "id": 2902,
+        "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+        "name": "SND",
+        "origin_country": "FR"
+      },
+      {
+        "id": 77552,
+        "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
+        "name": "Curiosa Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 77550,
+        "logo_path": "/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png",
+        "name": "Moana Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 20550,
+        "logo_path": null,
+        "name": "Forum Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 1533,
+        "logo_path": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+        "name": "Indigo Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 92187,
+        "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+        "name": "Proximus",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2023-11-29",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "The Braid",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1177125,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Words",
+    "overview": "Story about a alien coming to earth",
+    "popularity": 1.4,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-12-22",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Words",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1177027,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "一月の声に歓びを刻め",
+    "overview": "Hokkaido, Japan: An old woman -- formerly a man -- lives by a lake in the northern reaches of Japan, gazing at Nakajima Island in its center where her daughter's body was found long ago. She hasn't been able to visit for almost 50 years.  Tokyo: A middle-aged man lives on an island where criminals were once exiled in the past, earning a sparse living as a cattle herder. He is descended from such exiled criminals. He raised his only daughter by himself after losing his wife in an accident.  Osaka: A woman who was sexually assaulted as a child comes to Osaka for the first time in a while to attend the funeral of her ex-boyfriend. As each of these women board ships and separate themselves from time and locations, the emotional scars and sins they carry become apparent.",
+    "popularity": 1.4,
+    "poster_path": "/w9b0arkZHstD3knwrh9LzzAbiWn.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2024-01-01",
+    "revenue": 0,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Voice",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kRQJYkbErKU4vTxiufMi6olQGTO.jpg",
+    "belongs_to_collection": null,
+    "budget": 200,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "",
+    "id": 1073821,
+    "imdb_id": null,
+    "original_language": "si",
+    "original_title": "ඇය (Her)",
+    "overview": "Yohan arrives late to meet his girlfriend Dilumi, and the resulting conflict in their love story tells about the strength of their relationship but the arrival of an unexpected friend reveals the real problem.",
+    "popularity": 1.529,
+    "poster_path": "/8VLXImkjSA0Zrz2PRSXpaGQBRCT.jpg",
+    "production_companies": [
+      {
+        "id": 190440,
+        "logo_path": null,
+        "name": "Nartwork Media",
+        "origin_country": ""
+      },
+      {
+        "id": 196380,
+        "logo_path": null,
+        "name": "Western Tower Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "LK",
+        "name": "Sri Lanka"
+      }
+    ],
+    "release_date": "2024-07-01",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Sinhalese",
+        "iso_639_1": "si",
+        "name": "සිංහල"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Her",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1177304,
+    "imdb_id": null,
+    "original_language": "nl",
+    "original_title": "De mannenmaker",
+    "overview": "",
+    "popularity": 0.641,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 104733,
+        "logo_path": "/qL4k3QXqiqdDsZj6DhVzYd3Bs9a.png",
+        "name": "Brabant Films",
+        "origin_country": "NL"
+      },
+      {
+        "id": 62711,
+        "logo_path": null,
+        "name": "Talent United",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2024-10-17",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "De mannenmaker",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8r5fK186edYyNasf0UB4TMZehh0.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "https://www.hallmarkmoviesandmysteries.com/the-makeover",
+    "id": 164443,
+    "imdb_id": "tt2377132",
+    "original_language": "pt",
+    "original_title": "The Makeover",
+    "overview": "This is an update of George Bernard Shaw's \"Pygmalion\" that changes the genders of the main characters. Hannah Higgins attempts to turn blue-collar Boston beer vendor Elliot Doolittle into a viable candidate and inadvertently learns something of Elliot's side of life.",
+    "popularity": 7.164,
+    "poster_path": "/ywepu6TUxC3mRtzxa7CCKFYJbiC.jpg",
+    "production_companies": [
+      {
+        "id": 9027,
+        "logo_path": "/eGT7RxXHIyhByHpZmv4WxBwoWAl.png",
+        "name": "Hallmark Hall of Fame Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2013-01-26",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "He's Her Work In Progress",
+    "title": "The Makeover",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 69
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1156532,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Smoking Drill",
+    "overview": "Anti-tobacco PSA by the Arizona Department of Health Services, with its campaign aimed at teenagers which ran between the mid-90s to early 2000s. This is one of their later ones, which uses the dark and disturbing imagery of a factory that produces both cigarettes and the teenagers who smoke them.",
+    "popularity": 0.84,
+    "poster_path": "/trGWoxgXRKD1jB4rHtJaaIVZKju.jpg",
+    "production_companies": [
+      {
+        "id": 204827,
+        "logo_path": null,
+        "name": "Riester Advertising Agency",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-01-01",
+    "revenue": 0,
+    "runtime": 1,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "Tobacco. Tumor causing, teeth staining, smelly, puking habit.",
+    "title": "Smoking Drill",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hg5WfIfX0KpAASABGhBZtmMujnX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "http://www.threestooges.com/filmography/details.php?intFilmID=103",
+    "id": 116109,
+    "imdb_id": "tt0039027",
+    "original_language": "en",
+    "original_title": "Three Little Pirates",
+    "overview": "The stooges are castaways from a garbage scow who land on Dead Man's Island where everyone is living in olden times. To escape from the governor, they disguise Curly as a Maharaja and win permission to journey to their own country to fetch presents. The governor is fooled, but the boys run into more trouble in the den of Black Louie the pirate where Curly is forced into a knife throwing contest with Larry as the target. Things look bad until a mis-thrown knife cuts the rope that holds the chandelier and it crashes down on Black Louie's men. With the pirates defeated, Moe decides to take over as ruler of the island.",
+    "popularity": 1.4,
+    "poster_path": "/wizncZGxYcostwra1tb7dIJK7zH.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/wrweLpBqRYcAM7kCSaHDJRxKGOP.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1946-12-05",
+    "revenue": 0,
+    "runtime": 18,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Guaranteed to start a riot!",
+    "title": "Three Little Pirates",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5mHHvukFGmmRtEmqrlUDl1Y4Gny.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1046620,
+    "imdb_id": "tt23554840",
+    "original_language": "hi",
+    "original_title": "The Vaccine War",
+    "overview": "Faced with the catastrophic challenge of fighting a global crisis like no other, Indian scientists take on the mantle of making vaccine in the country despite not having enough resources and infrastructure to save 130 crore citizens of the nation.",
+    "popularity": 4.959,
+    "poster_path": "/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg",
+    "production_companies": [
+      {
+        "id": 164948,
+        "logo_path": null,
+        "name": "I am Buddha Production",
+        "origin_country": "IN"
+      },
+      {
+        "id": 103329,
+        "logo_path": "/bjJ6phaG9F8cGm3RYBjly8wYuH5.png",
+        "name": "Pen Studios",
+        "origin_country": "IN"
+      },
+      {
+        "id": 163011,
+        "logo_path": null,
+        "name": "Abhishek Agarwal Arts",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2023-09-28",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "A war you didn't know you fought. And won.",
+    "title": "The Vaccine War",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zSVX21AqbljbxKsO6WqwTHJcjTW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1079054,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Triskaïdékaphobie",
+    "overview": "Friday the 13th, a day like any other for the mower, but not for the world of believers...",
+    "popularity": 0.6,
+    "poster_path": "/5M5qqEQAJWtzpJbio16Ob0y8clQ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-02-01",
+    "revenue": 0,
+    "runtime": 2,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "13",
+    "title": "Triskaïdékaphobie",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/keHN5s88wrPD3C07n6Lzev0vd69.jpg",
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 11468,
+    "imdb_id": "tt0235737",
+    "original_language": "en",
+    "original_title": "The Salton Sea",
+    "overview": "After the murder of his beloved wife, a man in search of redemption is set adrift in a world where nothing is as it seems. On his journey, he befriends slacker Jimmy \"The Finn\", becomes involved in rescuing his neighbor Colette from her own demons, and gets entangled in a web of deceit full of unexpected twists and turns.",
+    "popularity": 13.877,
+    "poster_path": "/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg",
+    "production_companies": [
+      {
+        "id": 96043,
+        "logo_path": null,
+        "name": "Humble Journey Films",
+        "origin_country": ""
+      },
+      {
+        "id": 97,
+        "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+        "name": "Castle Rock Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 3982,
+        "logo_path": "/bli7HkPOXOEWsDwDK0W7XXfeUU2.png",
+        "name": "Darkwoods Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2002-02-02",
+    "revenue": 676698,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "If you're looking for the truth, you've come to the wrong place.",
+    "title": "The Salton Sea",
+    "video": false,
+    "vote_average": 6.579,
+    "vote_count": 285
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 114514,
+    "imdb_id": "tt0076918",
+    "original_language": "en",
+    "original_title": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+    "overview": "Who Are the DeBolts? And Where Did They Get Nineteen Kids? is a 1977 documentary film about Dorothy and Bob DeBolt, an American couple who adopted 14 children [12 at the start of filming], some of whom are severely disabled war orphans -- in addition to raising Dorothy's five biological children and Bob's biological daughter. The film won an Academy Award for Best Documentary in 1978.",
+    "popularity": 4.379,
+    "poster_path": "/cFQKY5wbuD0sygPt25NcTVBbd5F.jpg",
+    "production_companies": [
+      {
+        "id": 16339,
+        "logo_path": null,
+        "name": "Charles M. Schulz Creative Associates",
+        "origin_country": "US"
+      },
+      {
+        "id": 775,
+        "logo_path": null,
+        "name": "Korty Films",
+        "origin_country": ""
+      },
+      {
+        "id": 8487,
+        "logo_path": "/bXWVZmW3RD6SAk0lFahPxNbp541.png",
+        "name": "Sanrio",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1977-12-01",
+    "revenue": 0,
+    "runtime": 72,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3m2KInF9d2rdV6vU7aN2y1GQDBG.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1077310,
+    "imdb_id": "tt27042866",
+    "original_language": "zh",
+    "original_title": "不能流泪的悲伤",
+    "overview": "",
+    "popularity": 1.96,
+    "poster_path": "/rUZ8SCEoQcWrvHulXXMUw4qD7N0.jpg",
+    "production_companies": [
+      {
+        "id": 74337,
+        "logo_path": null,
+        "name": "Sky Films Entertainment",
+        "origin_country": "TW"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "TW",
+        "name": "Taiwan"
+      }
+    ],
+    "release_date": "2023-02-14",
+    "revenue": 8180000,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Behind the Blue Eyes",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tw9FDRM2x6A85JnU88dHKWsf5o7.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "homepage": "",
+    "id": 11652,
+    "imdb_id": "tt0445990",
+    "original_language": "en",
+    "original_title": "Invincible",
+    "overview": "Inspired by the true story of Vince Papale, a man with nothing to lose who ignored the staggering odds and made his dream come true. When the coach of Papale's beloved hometown football team hosted an unprecedented open tryout, the public consensus was that it was a waste of time – no one good enough to play professional football was going to be found this way.",
+    "popularity": 12.763,
+    "poster_path": "/9Lu1uEF00xc2h7Db0BwL7zE25JA.jpg",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2006-08-25",
+    "revenue": 57806952,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dreams are not lived on the sidelines",
+    "title": "Invincible",
+    "video": false,
+    "vote_average": 6.968,
+    "vote_count": 836
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kyegg1r5oxRCZgqU7anHYD2TJap.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 524247,
+    "imdb_id": "tt6722030",
+    "original_language": "en",
+    "original_title": "The Intruder",
+    "overview": "A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.",
+    "popularity": 36.224,
+    "poster_path": "/p9xKyetr0ihJ2K6HJMeXzc4IwEv.jpg",
+    "production_companies": [
+      {
+        "id": 102809,
+        "logo_path": "/5hoxf5oxUF56UWqWbIt2BjWmZ6m.png",
+        "name": "Hidden Empire Film Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 3287,
+        "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+        "name": "Screen Gems",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-05-03",
+    "revenue": 40600000,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Your House. His Home.",
+    "title": "The Intruder",
+    "video": false,
+    "vote_average": 6.044,
+    "vote_count": 528
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ss7yKhQDAXohbiLyF8H4ngpBTwD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "",
+    "id": 9558,
+    "imdb_id": "tt0099939",
+    "original_language": "en",
+    "original_title": "King of New York",
+    "overview": "A former drug lord returns from prison determined to wipe out all his competition and distribute the profits of his operations to New York's poor and lower classes in this stylish and ultra violent modern twist on Robin Hood.",
+    "popularity": 22.701,
+    "poster_path": "/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg",
+    "production_companies": [
+      {
+        "id": 1242,
+        "logo_path": "/qOvcm1WCLlAdNoQ1kCkk2J7bhWk.png",
+        "name": "Reteitalia",
+        "origin_country": "IT"
+      },
+      {
+        "id": 14974,
+        "logo_path": null,
+        "name": "Scena International",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1990-07-18",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Not everyone who runs a city is elected.",
+    "title": "King of New York",
+    "video": false,
+    "vote_average": 6.694,
+    "vote_count": 561
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1177489,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Le temps d'un silence",
+    "overview": "A depressed girl willing to do anything to try to feel something",
+    "popularity": 1.96,
+    "poster_path": "/aBwliec0pw8AbwdzddOPMdtImG9.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2023-09-12",
+    "revenue": 0,
+    "runtime": 7,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Le temps d'un silence",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h5QZJ88n8E6kLWAf2jFcU8o4ZhX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "",
+    "id": 217335,
+    "imdb_id": "tt0060081",
+    "original_language": "it",
+    "original_title": "Agente segreto 777 - Operazione Mistero",
+    "overview": "A scientist discovers a way to bring the dead back to life using nuclear power but it makes him the target of secret agents who will stop at nothing to get his formula for themselves.",
+    "popularity": 1.171,
+    "poster_path": "/c5iLKvfDzzBQDsCwhh9BQDm03pB.jpg",
+    "production_companies": [
+      {
+        "id": 1185,
+        "logo_path": null,
+        "name": "Protor Film",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "1965-11-27",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Secret Agent 777",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6pv2fkaDLkEhpqSDYy1bJe0MZn7.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "",
+    "id": 111750,
+    "imdb_id": "tt0031842",
+    "original_language": "en",
+    "original_title": "The Real Glory",
+    "overview": "Fort Mysang, southern Philippine Islands, under US rule, 1906. A small group of army officers and native troops resist the fierce and treacherous attacks of the ruthless Alisang and his fanatical followers.",
+    "popularity": 5.195,
+    "poster_path": "/mK8fr3Wgi58VjLF6puQJg441TzW.jpg",
+    "production_companies": [
+      {
+        "id": 28205,
+        "logo_path": "/70VLg1uTo7gXdJQczgl1DPmp3hT.png",
+        "name": "Samuel Goldwyn Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1939-09-29",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "Always outnumbered, never outfought",
+    "title": "The Real Glory",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 992994,
+    "imdb_id": "tt18245948",
+    "original_language": "ru",
+    "original_title": "Разрыв связи",
+    "overview": "The film Broken Ties, by independent Russian filmmaker Andrei Loshak, is an unflinching portrayal of families divided by war. It features seven different pairings, whose members speak periodically with Loshak, one-to-one, to explain their points of view. Their conversations extend over the war's first three months, during which time their opinions evidence no change. The film makes no attempt at dialogue -- on the contrary, it is a testimony to the absence of dialogue amidst an unfolding war, and an unsentimental diagnosis of the sickness of a society in which official propaganda proves stronger than even the most intimate family ties.",
+    "popularity": 1.4,
+    "poster_path": "/rYTcqhXfDk1hxqgD26EMvuVlwDc.jpg",
+    "production_companies": [
+      {
+        "id": 111158,
+        "logo_path": "/9m4vqLnfjoPeyJteUmi2LZQDJ1c.png",
+        "name": "Current Time TV",
+        "origin_country": "CZ"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GE",
+        "name": "Georgia"
+      },
+      {
+        "iso_3166_1": "CZ",
+        "name": "Czech Republic"
+      }
+    ],
+    "release_date": "2022-06-19",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Broken Ties",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a3v1rfjMUxMX7cgy5ytwYHIToVt.jpg",
+    "belongs_to_collection": {
+      "id": 302331,
+      "name": "LEGO Star Wars Collection",
+      "poster_path": "/sHlgKW5hlQvwJseJkmnkSmL3YDI.jpg",
+      "backdrop_path": "/6kilSOTKqyqw1cTfgUak2Y2Gz9O.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 81233,
+    "imdb_id": "tt1509637",
+    "original_language": "en",
+    "original_title": "LEGO Star Wars: The Quest for R2-D2",
+    "overview": "When R2-D2 gets lost in space, Anakin Skywalker and his apprentice Ahsoka Tano set off on a mission to find their droid pal.",
+    "popularity": 2.016,
+    "poster_path": "/lqtQIzkgqhhtefRnd5HBlErHlT4.jpg",
+    "production_companies": [
+      {
+        "id": 34108,
+        "logo_path": null,
+        "name": "M2Film",
+        "origin_country": "DK"
+      },
+      {
+        "id": 108270,
+        "logo_path": "/eDWGeg5tdVNcI8aBaaJ21bEBtFa.png",
+        "name": "Lucasfilm Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 4081,
+        "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+        "name": "LEGO",
+        "origin_country": "DK"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2009-08-28",
+    "revenue": 0,
+    "runtime": 5,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Join us on a quest for the little droid... who's always in big trouble.",
+    "title": "LEGO Star Wars: The Quest for R2-D2",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y6c9KJ7nDOlSAnyKXPKQs3mV3fx.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "",
+    "id": 11114,
+    "imdb_id": "tt0076538",
+    "original_language": "en",
+    "original_title": "Pete's Dragon",
+    "overview": "Pete, a young orphan, runs away to a Maine fishing town with his best friend a lovable, sometimes invisible dragon named Elliott! When they are taken in by a kind lighthouse keeper, Nora, and her father, Elliott's prank playing lands them in big trouble. Then, when crooked salesmen try to capture Elliott for their own gain, Pete must attempt a daring rescue.",
+    "popularity": 21.168,
+    "poster_path": "/noShGNQKAgMqNanJL5EiZlf6LCp.jpg",
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1977-11-03",
+    "revenue": 0,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Brazzle Dazzle Brilliance!",
+    "title": "Pete's Dragon",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 614
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/edeSUOYacNFzwT3anFI3HL8xZoo.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 48381,
+    "imdb_id": "tt0303010",
+    "original_language": "en",
+    "original_title": "Savage Messiah",
+    "overview": "As a small-town social worker investigates a commune headed by a spiritual leader calling himself Moses, she discovers a dead child, sadistic rituals, and ruthless mental and physical abuse.",
+    "popularity": 4.347,
+    "poster_path": "/clbpwnnEwpOCKI1XVuN6TUDvoCq.jpg",
+    "production_companies": [
+      {
+        "id": 4042,
+        "logo_path": null,
+        "name": "Astral Films",
+        "origin_country": "CA"
+      },
+      {
+        "id": 71276,
+        "logo_path": null,
+        "name": "Bernard Zukerman Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 11550,
+        "logo_path": "/3oQFsgYn68gvDAkELfiX4tn65Ui.png",
+        "name": "Corus Entertainment",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2002-04-26",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "He promised them... Love, Healing, SALVATION",
+    "title": "Savage Messiah",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nV4nOG6ZCK8orRL7T5wXXgMdM0N.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.1ol2idv8q2iftiyjfkuyfki5l",
+    "id": 1059811,
+    "imdb_id": "tt25471950",
+    "original_language": "en",
+    "original_title": "Flora and Son",
+    "overview": "Single mom Flora is at a loss about what to do with her rebellious teenage son, Max. Her efforts to keep him out of trouble lead to a beat-up acoustic guitar, a washed-up LA musician, and harmony for this frayed Dublin family.",
+    "popularity": 11.343,
+    "poster_path": "/pq2p8ovf8PZps2HafvJaLrZK8gS.jpg",
+    "production_companies": [
+      {
+        "id": 1785,
+        "logo_path": "/wT6aIkuQTNuq8XFoDGACK8EyR6w.png",
+        "name": "Likely Story",
+        "origin_country": "US"
+      },
+      {
+        "id": 7493,
+        "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 181874,
+        "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+        "name": "Fifth Season",
+        "origin_country": "US"
+      },
+      {
+        "id": 68417,
+        "logo_path": null,
+        "name": "Distressed Films",
+        "origin_country": "IE"
+      },
+      {
+        "id": 1898,
+        "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+        "name": "Fís Éireann/Screen Ireland",
+        "origin_country": "IE"
+      },
+      {
+        "id": 21872,
+        "logo_path": "/sex8X2qwrKfFTSJLEXMPH4kmDxN.png",
+        "name": "Treasure Entertainment",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-22",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Talent is relative.",
+    "title": "Flora and Son",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/73dXzlkftJnfOsOdMQl0XfT0gSx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 58257,
+    "imdb_id": "tt0069225",
+    "original_language": "en",
+    "original_title": "Savage Messiah",
+    "overview": "In the Paris of the 1910s, brash young sculptor Henri Gaudier begins a creative partnership with an older writer, Sophie Brzeska. Though the couple is 20 years apart in age, Gaudier finds that his untamed work is complemented by the older woman's cultural refinement. He then moves to London with Brzeska, where he falls in with a group of avant-garde artists. There, Gaudier encounters yet another artistic muse in passionate suffragette Gosh Boyle.",
+    "popularity": 4.483,
+    "poster_path": "/8SvzigYJY7iy4DGlrnOHfU2FZkY.jpg",
+    "production_companies": [
+      {
+        "id": 5579,
+        "logo_path": null,
+        "name": "Metro-Goldwyn-Mayer British Studios",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1972-06-27",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Every man has a dream that must be realised... a love that must come true... a life that must not stop.",
+    "title": "Savage Messiah",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rMgCAM3KPlIYq8VvJnfUDmWuttp.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "",
+    "id": 1000197,
+    "imdb_id": "tt21307568",
+    "original_language": "zh",
+    "original_title": "雪山飞狐之塞北宝藏",
+    "overview": "Ten years ago, in order to snatch the mysterious treasure left by Dashing King Li Zicheng, the wicked designed a decisive battle between the hero Miao Renfeng and the treasure guardian Hu. Hu and Miao died tragically, but the treasure map disappeared. In ten years, they have never given up the search for treasure. Finally, the treasure map reappeared, and the eight evil men gathered together and set off to Feihu Mountain.. (Source: forum.soompi)",
+    "popularity": 3.582,
+    "poster_path": "/lwQyH6yID8VqYfcmvZLIaV0Jkjp.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2022-07-15",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Hidden Fox",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 4
+  }
+]
